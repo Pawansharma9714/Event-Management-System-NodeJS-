@@ -13,7 +13,8 @@ Event Management System using Node JS.
 Node.js is an open-source, cross-platform JavaScript runtime environment and library for running web applications outside the client's browser.
 Ryan Dahl developed it in 2009. Developers use Node.js to create server-side web applications, and it is perfect for data-intensive applications since it uses an asynchronous, event-driven model.
 
-## What is the task
+## What is the task:
+
 Create a nodejs application which contains 2 models
 1. Admin model.
 2. Organizer model.
@@ -27,7 +28,8 @@ User should be able to sign up and login with email. Use JWT token for authentic
 3. Organizer list, add organizer, edit organizer, update and delete organizer (With auth token).
 
 
-## Built with
+## Technologies used:
+
 <ul>
 <li>Express.js - Node.js web application framework</li>
 <li>mongoose - MongoDB object modeling for Node.js</li>
