@@ -25,3 +25,10 @@ User should be able to sign up and login with email. Use JWT token for authentic
 1. Admin Login api (Without auth token)
 2. Admin Change password api, Forgot password api, logout api (With auth token)
 3. Organizer list, add organizer, edit organizer, update and delete organizer (With auth token).
+
+
+## Built with
+<ul>
+<li>Express.js - Node.js web application framework</li>
+<li>mongoose - MongoDB object modeling for Node.js</li>
+</ul>
