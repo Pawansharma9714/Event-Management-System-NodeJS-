@@ -16,7 +16,7 @@ Ryan Dahl developed it in 2009. Developers use Node.js to create server-side web
 ## What is the task
 Create a nodejs application which contains 2 models
 1. Admin model.
-2. User model.
+2. Organizer model.
 
 App summary - 
 
