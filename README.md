@@ -28,6 +28,7 @@ User should be able to sign up and login with email. Use JWT token for authentic
 
 
 ## Built with
+<hr>
 <ul>
 <li>Express.js - Node.js web application framework</li>
 <li>mongoose - MongoDB object modeling for Node.js</li>
